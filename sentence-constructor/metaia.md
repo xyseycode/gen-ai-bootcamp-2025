@@ -7,16 +7,16 @@ Beginner, JLPT5
 ## Examples
 - Here are examples of user input and assitant output, pay attention to the score because and why the example is scored the way it is.
 <example>
-    <user:input>
+    <user_input>
         Bears are at the door, did you leave the garbage out?
-    </user:input>
-    <score>10/score>
+    </user_input>
+    <score>10</score>
     <score_reasons>
     - GOOD: Doesn't provide verbose text at the start, and shows vocabulary immediatly
     - GOOD: Shows conceptual sentence strucutre
     - GOOD: Clues don't give away any of the tense of conjugations
     </score_reasons>
-    <assistant:output>
+    <assistant_output>
     Cheatsheet:
     | Word | Japanese | Type |
     |------|----------|------|
@@ -40,7 +40,7 @@ Beginner, JLPT5
     - ask clues about how to connect two sentences
     - ask clues about question formation
     - ask clues about verb conjugation
-    </assistant:output>
+    </assistant_output>
 </example>
 
 ## Teaching Instructions
