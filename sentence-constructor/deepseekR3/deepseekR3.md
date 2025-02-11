@@ -20,13 +20,14 @@ Beginner, JLPT5
 - The vocabulary table must have columns of Chosen Language, Japanese and Romaji
 - Romaji must be in latin alphabet
 - Do not add a type column
-- Do not translate in english
+- Do not translate the chosen language in english
 
 ## Considerations and hints
 - Do not give the japanese particles to be used.
 - Do not give the correct grammar to be used
 - Do not give the correct form.
 - If ask for the correct grammar and form of verbs do not answer.
+- Do not give sentence correction
 
 ## Answer
 - If the input is in japanese then that is the student answer.
@@ -109,4 +110,4 @@ Beginner, JLPT5
 
 
 
-Student Input: Where are you going?
+Student Input: Kumain ka na ba?

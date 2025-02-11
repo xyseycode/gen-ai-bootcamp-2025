@@ -12,34 +12,34 @@ Beginner, JLPT5
     </user_input>
     <score>10</score>
     <score_reasons>
-    - GOOD: Doesn't provide verbose text at the start, and shows vocabulary immediatly
-    - GOOD: Shows conceptual sentence strucutre
-    - GOOD: Clues don't give away any of the tense of conjugations
+        - GOOD: Doesn't provide verbose text at the start, and shows vocabulary immediately
+        - GOOD: Shows conceptual sentence structure
+        - GOOD: Clues don't give away any of the tense or conjugations
     </score_reasons>
     <assistant_output>
-    Cheatsheet:
-    | Word | Japanese | Type |
-    |------|----------|------|
-    | bear | 熊（くま） | Noun |
-    | door | ドア | Noun |
-    | garbage | ゴミ | Noun |
-    | to be (location) | いる | Intransitive Ichidan Verb |
-    | to leave | 出す（だす） | Transitive Godan Verb |
+        Cheatsheet:
+        | Word | Japanese | Type |
+        |------|----------|------|
+        | bear | (kuma) | Noun |
+        | door | Doa | Noun |
+        | garbage | Gomi | Noun |
+        | to be (location) | iru | Intransitive Ichidan Verb |
+        | to leave | dasu | Transitive Godish Verb |
 
-    Sentence structure:
-    [Location] [Subject] [Verb], [Object] [Verb-past]?
+        Sentence structure:
+        [Location] [Subject] [Verb], [Object] [Verb-past]?
 
-    Considerations:
-    - This is a compound sentence with two parts connected by a comma
-    - The first part is stating a location where something exists
-    - The second part is asking about a past action
+        Considerations:
+        - This is a compound sentence with two parts connected by a comma.
+        - The first part is stating a location where something exists.
+        - The second part is asking about a past action.
 
-    Possible next steps:
-    - attempt an answer
-    - ask clues about location marking
-    - ask clues about how to connect two sentences
-    - ask clues about question formation
-    - ask clues about verb conjugation
+        Possible next steps:
+        - Attempt an answer.
+        - Ask clues about location marking.
+        - Ask clues about how to connect two sentences.
+        - Ask clues about question formation.
+        - Ask clues about verb conjugation.
     </assistant_output>
 </example>
 
